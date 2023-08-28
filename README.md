@@ -10,7 +10,7 @@
 
 - 🔨 I learn new tools and technologies by making projects 🔧
 
-- 🤩 I love talking about tech, science, and learning about them 🚀
+- 🤩 I love talking about tech, science, and learning about the same 🚀
 
 - 😃 I'm always open to and value feedback as it helps me become a better developer and listener 😁
 
