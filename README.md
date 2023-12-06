@@ -54,8 +54,5 @@
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycoding3112&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-
-<img width="51.8%" src="https://github-contributor-stats.vercel.app/api?username=happycoding3112&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycoding3112&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
